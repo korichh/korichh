@@ -22,35 +22,13 @@ Email      <a href="mailto:akopyankor@gmail.com">akopyankor@gmail.com</a>
 </pre>
 
 <pre>
-$ ls ~/stack/languages
-
-typescript   javascript   node.js   fastify   express.js
-nest.js      react.js     next.js   python    php
+$ cat stack.txt
+Languages     TypeScript, JavaScript, Node.js, Python, PHP
+Frameworks    Fastify, Express.js, Nest.js, React.js, Next.js
+AI / LLM      LangChain, LangGraph, LangSmith, OpenAI, Gemini, Document AI, RAG, Vector Search
+Databases     PostgreSQL, MySQL, MongoDB, OpenSearch, Prisma
+Cloud         AWS (EC2, ECR, RDS, S3, API Gateway), GCP (Compute Engine, Cloud Run, Cloud SQL, Secret Manager, Cloud Build)
+Infra         Terraform, Docker, Nginx, Cloudflare, GitHub Actions
+Architecture  Git, BullMQ, Redis, Awilix (DI), Zod, WebSocket, SSE, RBAC
 </pre>
-
-<pre>
-$ ls ~/stack/ai-llm
-
-langchain    langgraph            langsmith        openai-llms
-gemini-llms  google-document-ai   rag-pipelines    vector-search
-</pre>
-
-<pre>
-$ ls ~/stack/databases
-
-postgresql   mysql   mongodb   opensearch   prisma
-</pre>
-
-<pre>
-$ ls ~/stack/cloud-infra
-
-aws (ec2, ecr, rds, s3, api-gateway)
-gcp (compute-engine, cloud-run, cloud-sql, secret-manager, cloud-build)
-terraform    docker    nginx    cloudflare    github-actions
-</pre>
-
-<pre>
-$ ls ~/stack/architecture-tooling
-
-git   bullmq   redis   awilix (di)   zod   websocket   sse   rbac
-</pre>
+ 
