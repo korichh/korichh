@@ -13,23 +13,44 @@ Location: Varna, Bulgaria (UTC+2)
 ```
 
 <pre>
-$ ls ~/stack
+$ ls ~/stack/languages
 
-typescript   node.js      fastify     postgresql
-redis        langchain    langgraph   docker
-aws          gcp          mongodb
+typescript   javascript   node.js   fastify   express.js
+nest.js      react.js     next.js   python    php
+</pre>
+
+<pre>
+$ ls ~/stack/ai-llm
+
+langchain    langgraph        langsmith          openai-llms
+gemini-llms  google-document-ai   rag-pipelines   vector-search
+</pre>
+
+<pre>
+$ ls ~/stack/databases
+
+postgresql   mysql   mongodb   opensearch   prisma
+</pre>
+
+<pre>
+$ ls ~/stack/cloud-infra
+
+aws (ec2, ecr, rds, s3, api-gateway)
+gcp (compute-engine, cloud-run, cloud-sql, secret-manager, cloud-build)
+terraform    docker    nginx    cloudflare    github-actions
+</pre>
+
+<pre>
+$ ls ~/stack/architecture-tooling
+
+git   bullmq   redis   awilix (di)   zod   websocket   sse   rbac
 </pre>
 
 <pre>
 $ cat links.txt
 
-cv          <a href="#">your-cv-link</a>
-portfolio   <a href="#">your-portfolio-link</a>
-linkedin    <a href="#">linkedin.com/in/your-handle</a>
-email       akopyankor@gmail.com
+cv          <a href="https://docs.google.com/document/d/1DTN9iHL2dFQMLMLa_G63DbWlj3weIt7If6Ll9q0N6H4/edit?tab=t.0">cv</a>
+portfolio   <a href="https://docs.google.com/document/d/1DTN9iHL2dFQMLMLa_G63DbWlj3weIt7If6Ll9q0N6H4/edit?tab=t.5m8c8b5puw1v">portfolio</a>
+linkedin    <a href="https://www.linkedin.com/in/koriun-akopian/">linkedin.com/in/koriun-akopian</a>
+email       <a href="mailto:akopyankor@gmail.com">akopyankor@gmail.com</a>
 </pre>
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=korichh&show_icons=true&theme=chartreuse-dark&hide_border=true&hide_title=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=korichh&theme=highcontrast&hide_border=true)
