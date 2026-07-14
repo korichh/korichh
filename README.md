@@ -4,7 +4,7 @@ Koriun Akopian - Node.js Engineer | AI Engineer | DevOps
 </pre>
 
 <pre>
-$ neofetch
+$ fastfetch
 --------------------------------------
 OS:        Fedora Linux
 Focus:     Backend systems, Agentic AI pipelines
