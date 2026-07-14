@@ -1,8 +1,8 @@
-```
+<pre>
 $ whoami
 
 Koriun Akopian - Node.js Engineer | AI Engineer | DevOps
-```
+</pre>
 
 ```
 $ neofetch
