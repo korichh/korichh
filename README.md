@@ -26,7 +26,7 @@ $ cat skills.txt
 
 Languages     English (Professional Fluency), Russian (Native), Ukrainian (Native)
 Programming   TypeScript, Node.js, Fastify, Nest.js, Express.js, React.js, Next.js, Python, PHP
-AI / LLM      LangChain, LangGraph, LangSmith, OpenAI LLMs, Gemini LLMs, Google Document AI, RAG & agentic pipelines, Vector Search
+AI / LLM      LangChain, LangGraph, LangSmith, OpenAI LLMs, Gemini LLMs, Document AI, RAG, Agentic, Vector Search
 Databases     PostgreSQL, MySQL, MongoDB, OpenSearch, Prisma
 Cloud         AWS (EC2, ECR, RDS, S3, API Gateway), GCP (Compute Engine, Cloud Run, Cloud SQL, Secret Manager, Cloud Build)
 Infra         Terraform, Docker, Nginx, Cloudflare, CI/CD (GitHub Actions)
